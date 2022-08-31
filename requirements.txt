@@ -1,4 +1,5 @@
 streamlit
+spacy-streamlit
 setuptools
 wheel
 spacy
