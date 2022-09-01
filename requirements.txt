@@ -4,3 +4,4 @@ setuptools
 wheel
 spacy
 ginza
+https://github.com/explosion/spacy-models/releases/download/ja_core_news_md-3.4.0/ja_core_news_md-3.4.0.tar.gz
