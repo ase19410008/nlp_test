@@ -1,4 +1,5 @@
 import spacy
+from ginza import *
 import streamlit as st
 from spacy_streamlit import visualize_parser, process_text
 
